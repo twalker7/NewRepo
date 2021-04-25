@@ -76,6 +76,6 @@ footer a{
 
 .hero{
     padding: 60px;
-    background-image: url("/assets/images/hero.jpg"); 
+    background-image: url("../images/hero.jpg"); 
     height: 600px;
 }
