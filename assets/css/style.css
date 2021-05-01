@@ -49,35 +49,14 @@ header nav ul li a{
     
 }
 
-/* ---- footer ---- */
 
-footer{
-    background:#fce138;
-    width: 100%;
-    padding: 40px 35px; 
+
+section{ 
+    padding: 60px;
 }
-
-footer h2{
-    display: inline;
-    color: #024e76;
-    font-size: 30px;
-    margin: 0; 
-}
-
-footer div{
-    float: right;
-    line-height: 1.5;
-    text-align: right;
-}
-
-footer a{
-    color: #024e76; 
-}
-
 /* --- hero section styles  --- */
 
 .hero{
-    padding: 60px;
     background-image: url("../images/hero.jpg"); 
     height: 600px;
     background-size: cover;
@@ -117,6 +96,10 @@ footer a{
     margin-bottom: 15px; 
 }
 
+.hero-form label{
+    margin: 0px 5px;
+}
+
 .hero-form button{
     background-color: #024e76;
     color: #fce138;
@@ -127,3 +110,34 @@ footer a{
 }
 
 /* hero section end */
+
+/* What We Do section */ 
+
+#what-we-do{
+
+}
+
+/* ---- footer ---- */
+
+footer{
+    background:#fce138;
+    width: 100%;
+    padding: 40px 35px; 
+}
+
+footer h2{
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0; 
+}
+
+footer div{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a{
+    color: #024e76; 
+}
