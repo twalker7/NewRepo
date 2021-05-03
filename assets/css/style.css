@@ -181,11 +181,16 @@ section{
 }
 
 /* Meet the Trainers */
-
-#your-trainers{
-   text-align: center;
+.trainers{
+    text-align: center;
 }
 
+.trainer{
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background-color: #024e76;
+    color: #fce138;
+}
 
 /* ---- footer ---- */
 
